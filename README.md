@@ -5,7 +5,7 @@
 
 - 👯 I’m looking for software engineering roles.
 
-- 🌱 I’m currently learning **Spring/SpringBoot**, **Algorithms**
+- 🌱 I’m currently learning more **C# (.NET)**, **Algorithms**
 
 - 📫 How to reach me **gerokafor360@gmail.com**
 
